@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       f9f4119c-86c6-4386-955c-19a3e9d0457f
+:ROAM_ALIASES: Spelt Tarwe Gierst Mais Rogge Gerst Haver
+:END:
+#+title: graan
+
+
+* Granen/Grain/
+
+| Nederlands | Engels | Duits     |       Energie |         Energie |  Koolhydraten |           Vet |         Eiwit |
+|            |        |           | KJ per 100 gr | KCal per 100 gr | gr per 100 gr | gr per 100 gr | gr per 100 gr |
+|------------+--------+-----------+---------------+-----------------+---------------+---------------+---------------|
+| Haver      | Oats   | Hafer     |          1530 |       365.67878 |          63.0 |           7.1 |          12.5 |
+| Rogge      | Rye    | Roggen    |          1323 |       316.20459 |          69.0 |           1.7 |           8.8 |
+| Spelt      | Spelt  | Dinkel    |          1470 |       351.33843 |          69.0 |           2.7 |          11.5 |
+| Tarwe      | Wheat  | Weizen    |          1342 |       320.74570 |          70.0 |           2.0 |          11.5 |
+| Mais       | Corn   | Mais      |          1498 |       358.03059 |          71.0 |           3.8 |           9.0 |
+| Gierst     | Millet | Hirse     |          1510 |       360.89866 |          71.0 |           3.9 |          10.5 |
+| Gerst      | Barley | Gerste    |          1430 |       341.77820 |          72.0 |           2.1 |          11.0 |
+| Rijst      | Rice   | Reis      |          1492 |       356.59656 |          75.5 |           2.2 |           7.5 |
+|------------+--------+-----------+---------------+-----------------+---------------+---------------+---------------|
+| Aardappel  | Potato | Kartoffel |           362 |       86.520076 |          17.9 |           0.4 |           1.7 |
+#+TBLFM: $5=$4/4.184::@3$5=$4/4.184::@4$5=$4/4.184::@5$5=$4/4.184::@7$5=$4/4.184::@8$5=$4/4.184::@9$5=$4/4.184::@10$5=$4/4.184::@11$5=$4/4.184
+
+| Product |           Prijs | Bushell --> kg |                 Prijs |  Koolhydraten |         Koolhydraten | Prijs Koolhydraten |
+|         | USD per Bushell |                | USD per Metrische Ton | gr per 100 gr | gr per Metrische ton |   cent  USD per gr |
+|---------+-----------------+----------------+-----------------------+---------------+----------------------+--------------------|
+| Rogge   |            15.0 |           25.4 |             590.55118 |          69.0 |              690000. |        0.085587128 |
+| Gerst   |             6.6 |           21.8 |             302.75229 |          72.0 |              720000. |        0.042048929 |
+| Tarwe   |            6.90 |           27.2 |             253.67647 |          70.0 |              700000. |        0.036239496 |
+| Haver   |            3.09 |           14.5 |             213.10345 |          63.0 |              630000. |        0.033825944 |
+| Rijst   |            5.66 |           25.4 |             222.83465 |          72.5 |              725000. |        0.030735814 |
+| Mais    |               5 |           25.4 |             196.85039 |          71.0 |              710000. |        0.027725407 |
+| Spelt   |               3 |          18.14 |             165.38037 |          69.0 |              690000. |        0.023968170 |
+| Gierst  |            3.72 |           22.7 |             163.87665 |          71.0 |              710000. |        0.023081218 |
+#+TBLFM: $4=(1000/$3)*$2::$6=$5*10000::$7=100*$4/$6
+
+
+In graan zit [[id:be9827b9-8b1d-4f44-a081-3a45a0926504][Zetmeel]] welke voor de te vergisten suikers zorgen.
+Maar er zitten ook Poly Sacharides in die niet voor suiker zorgen.
+Denk b.v. aan Cellulose, wat in de celwanden zit.
+
+Ook in granen aanwezig:
+- Eiwitten/[[id:2e080c2a-cf1e-43b0-a8c2-cf09285596cd][Proteinen]]
+- Vetten/Lipiden
+  - wax
+  - vetten
+  - vetzuren
+  - vitaminen
+  - sterolen
+    - cholestorols
+      

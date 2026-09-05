@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6ab9fa4e-52b0-4f7d-bca6-ee1468edb436
+:TIMELINE_START: 1947-05-15
+:TIMELINE_END: 1949-03-10
+:END:
+#+title: eerste Arabisch Israelische oorlog
+#+filetags: :Israel:Palestina:
+
+Deze eerste Arabisch Israelische oorlog volgde na de [[id:6c5b8678-805c-4bf5-b889-0cedf590468d][1947 1948 Burgeroorlog]]
+

@@ -1,0 +1,12 @@
+
+:PROPERTIES:
+:ID:       c9ba2060-740c-4994-8f93-8ae3fe753fb8
+:ROAM_ALIASES: Bezel
+:END:
+#+title: Lunette
+
+De buitenring aan de bovenkant van het horloge.
+Deze ring houdt o.m. hetr glas vast.
+
+Deze kan ook draaibaar zijn uitgevoerd. (Divers)
+Op de lunette kan ook een [[id:fc2ae0ef-d1da-4e20-994f-55f600d015a8][Tachymeter]] staan afgebeeld

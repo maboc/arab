@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2b4871f1-b0e0-4955-8d6c-d620457b0423
+:END:
+#+title: Glashutte
+
+
+Land van Herkomst : Duits
+Website           : [[https://www.glashuette-original.com/en/][Glashutte]]

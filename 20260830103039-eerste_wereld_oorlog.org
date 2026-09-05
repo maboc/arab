@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9999d024-abb1-43f3-80c0-af57a419090b
+:TIMELINE_START: 1914
+:TIMELINE_END: 1918
+:END:
+#+title: Eerste Wereld Oorlog
+
+

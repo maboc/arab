@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f2256c16-8bd8-4215-b1d3-658c12ba0da0
+:END:
+#+title: Mesopotamie
+#+filetags: :Irak:
+
+Mesopaotamie is grofweg het gebied tussen de Eufraat en de Tigris.
+Ongeveer het gebied wat wij nu als [[id:a2bb9de9-13c7-414b-aa88-b1487b2c134f][Irak]] kennen.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e44a0002-2c43-4277-a92f-24b16d3d0987
+:TIMELINE_START: 1970
+:TIMELINE_END: 1981
+:END:
+#+title: Anwar Sadat
+#+filetags: :Egypte:
+
+President van Egypte 1970-1981
+
+Geboren 1918/12/25 Overleden 1981/10/6

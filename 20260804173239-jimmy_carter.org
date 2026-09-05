@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c0bad934-a536-41e1-bcf6-96c3de0f4429
+:TIMELINE_START: 1977
+:TIMELINE_END: 1981
+:END:
+#+title: Jimmy Carter
+#+filetags: :USA:
+
+President [[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]] 1977-1981
+ 
+Geboren 1924/10/19
+Overleden 2024/12/29
+
+Jimmy Carter was nauw betrokken bij de [[id:b1ce3372-1011-4dae-926f-703ae63b3893][Camp David Akkoorden]]

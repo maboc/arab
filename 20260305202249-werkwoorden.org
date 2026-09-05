@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e6ba3fc-ec6b-4872-b7f2-b3a481cca522
+:END:
+#+title: Werkwoorden
+
+[[id:b80869e9-339e-4c01-b089-bd3299058c35][Indikativ]]
+
+[[id:bcac38df-bdb4-4f0a-a2a1-d3ac4ac60398][Sein Haben]]
+
+[[id:6acc45f6-de7d-4386-a201-136991dee7b0][ModaleWerkwoorden]]
+

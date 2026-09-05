@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d62eee55-27e7-4038-ace4-f17834c16989
+:TIMELINE_START: 1977
+:TIMELINE_END: 1988
+:END:
+#+title: Menachem Begin
+#+filetags: :Israel:
+
+Premier Israel
+
+Geboren 1913/08/13 (Brest)
+Overleden 1992/03/09 (Jeruzalem)
+
+Begin was een van de ondertekenaars van de [[id:b1ce3372-1011-4dae-926f-703ae63b3893][Camp David Akkoorden]]

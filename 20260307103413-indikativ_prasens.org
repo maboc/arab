@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       99fcd76a-3657-4c21-a53e-997c01548236
+:END:
+#+title: Indikativ_Präsens
+
+Zwakke werkwoorden
+
+| Persoon      | vorming vh werkwoord | voorbeeld       | Vertaling          |
+|--------------+----------------------+-----------------+--------------------|
+| 1e enkelvoud | ich stam +e          | ich wohne       | ik woon            |
+| 2e enkelvoud | du stam +st          | du wohnst       | jij woont          |
+| 3e enkevoud  | er/sie/es stam +t    | er/sie/es wohnt | hij/zij/jhet woont |
+| 1e meervoud  | wir stam +en         | wir wohnen      | wij wonen          |
+| 2e meervoud  | ihr stam +t          | ihr wohnt       | jullie wonen       |
+| 3e meervoud  | sie stam +en         | sie wohnen      | zij wonen          |
+

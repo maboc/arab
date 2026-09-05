@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       38b59b1d-f821-4bcf-a71f-69f9113a7cac
+:END:
+#+title: Frankrijk
+
+Lijst van regeringsleiders:
+
+| Naam               | Start Termijn | Eind Termijn |
+|--------------------+---------------+--------------|
+| [[id:21897f0c-4730-4502-8816-b06854072a64][Georges Clemenceau]] |          1906 |         1909 |
+| [[id:21897f0c-4730-4502-8816-b06854072a64][Georges Clemenceau]] |          1917 |         1920 |
+|                    |               |              |

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e15502be-cb39-4941-aaf8-6224558adbc5
+:END:
+#+title: Vittorio Orlando
+
+Vittorio Orlando was regeringsleider van Italie.
+
+|   Geboorte |  Overleden | Start Termijn | Eind Termijn |
+|------------+------------+---------------+--------------|
+| 1860-05-19 | 1952-12-01 |          1917 |         1919 |
+|            |            |               |              |

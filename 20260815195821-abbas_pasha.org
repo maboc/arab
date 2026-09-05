@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       26854881-0ce9-4acc-b7ff-7089fa9bed7a
+:TIMELINE_START: 1848
+:TIMELINE_END: 1854
+:END:
+#+title: Abbas Pasha
+#+filetags: :Egypte:
+
+Opvolger van [[id:e66a07b2-d439-4b0f-a9e2-472964443102][Muhammad Ali]] als leider van [[id:6ed4b8a9-f665-4392-a065-68179c59ee8b][Egypte]].
+
+Hij regeerde van 1848 - 1854
+Hij begon met het geven van concessies aan europese landen/bedrijven/industrien om Egypte te moderniseren naar Europese maatstaven.
+
+- Een britse firma mocht een spoorlijn tussen Cairo en Alexandrie leggen

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8323d276-f9aa-4784-91a8-bffbc2a2b502
+:END:
+#+title: Cellulose
+
+[[https://nl.wikipedia.org/wiki/Cellulose][Cellulose]]
+
+Een poly meer van vele [[id:a8c2ea68-62cb-456d-9aa0-15f130a1dc0f][Glucose]] moleculen
+
+Moeijlijk te verteren tot Glucose

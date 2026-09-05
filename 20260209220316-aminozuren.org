@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bd7103f5-e4d4-4f4c-9ce6-dc4bae38fb03
+:END:
+#+title: Aminozuren
+
+[[https://nl.wikipedia.org/wiki/Aminozuur][Wiki: Aminozuren]]
+
+Aminozuren bestaan uit een Koolstof atoom met aan de enne kant een aminegroeo (-NH2)
+en aan de andere kant een carboxygroep (-COOH), Verder heeft een koolstof atoom nog een H verbinding
+en een Residu groep. Deze residu groep an van alles zijn.
+
+In de natuur heeft men zo'n 500 aminozuren geindentificeerd.
+20 Hiervan vinden we terug in menselijke eiwitten.
+Een aantal enzymen kan een organisme zelf synthetiseren.
+Een volwassen mens kan dat voor 9 aminozuren niet zelf. Deze moeten we uit ons eten halen.
+Dit zijn de essentiele aminozuren.
+(het voert mij te ver deze 9 nu hier te noemen)

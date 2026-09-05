@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       922b53d8-4b25-4c09-a4c5-fe79d65297f3
+:END:
+#+title: Sucrose
+
+[[https://en.wikipedia.org/wiki/Sucrose][Sucrose]]
+
+Sucrose is een polymeer van [[id:a8c2ea68-62cb-456d-9aa0-15f130a1dc0f][Glucose]] en [[id:ad5db302-21fe-4324-8761-1b78e3e96254][Fructose]].
+Sucrose worsr ook wel sacharose genoemd
+
+Door sucrose opgelost in water te koken met daarbij gevoegd een zuur (citroen zuur)
+wordt de sacrose afgebroken tot glucose en fructose.
+
+Sucrose komt van nature voor in rietsuiker en suikerbieten.

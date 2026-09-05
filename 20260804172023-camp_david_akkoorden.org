@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b1ce3372-1011-4dae-926f-703ae63b3893
+:TIMELINE_START: 1978-09-17
+:END:
+#+title: Camp David Akkoorden
+#+filetags: :USA:Israel:Egypte:
+
+De 3 grote leiders die aanwezig waren:
+- [[id:e44a0002-2c43-4277-a92f-24b16d3d0987][Anwar Sadat]] ([[id:6ed4b8a9-f665-4392-a065-68179c59ee8b][Egypte]])
+- [[id:d62eee55-27e7-4038-ace4-f17834c16989][Menachem Begin]] ([[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]])
+- [[id:c0bad934-a536-41e1-bcf6-96c3de0f4429][Jimmy Carter]] ([[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]])
+
+De Camp David akkoorden leverden een raamwerk voor vrede in het Midden Oosten. Voornamelijk gericht op de Paestijnese questie.
+Vreemd is dat de Palestijnen zelf en ook JOrdanie niet bij de gesprekken betrokken waren.
+
+De Camp David Akkoorden waren de opmaat naar de [[id:75bab19d-f033-45b8-b50a-2c07e5626b24][Oslo Akkoorden]]

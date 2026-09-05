@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e3000dd4-b632-427e-978a-528642d3d5d8
+:END:
+#+title: Italie
+
+Lijst van regeingsleiders:
+
+| Naam             | Start Termijn | Eind Termijn |
+|------------------+---------------+--------------|
+| [[id:e15502be-cb39-4941-aaf8-6224558adbc5][Vittorio Orlando]] |          1917 |         1919 |
+|                  |               |              |

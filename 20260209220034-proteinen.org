@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2e080c2a-cf1e-43b0-a8c2-cf09285596cd
+:END:
+#+title: Proteinen
+
+Proteinen bestaan polypeptides
+polypetides bestaan uit peptides
+peptides bestaan uit [[id:bd7103f5-e4d4-4f4c-9ce6-dc4bae38fb03][Aminozuren]]
+
+Amino zuren lijken in die zin op enkelvoudige suike.

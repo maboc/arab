@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       fc2ae0ef-d1da-4e20-994f-55f600d015a8
+:END:
+#+title: Tachymeter
+
+Ring op de bezel deze geeft (bv.) de snelheid in km/uur aan.
+
+Bv. Bij 60 seconden staat 60 ==> Als je 60 seconden doet over een kilometer heb je een snelheid van 60 km/uur
+
+Tabelletje
+| seconden | Snelheid |
+|----------+----------|
+|        0 |          |
+|        5 |      720 |
+|       10 |      360 |
+|       15 |      240 |
+|       20 |      180 |
+|       25 |      144 |
+|       30 |      120 |
+|       35 |      103 |
+|       40 |       90 |
+|       45 |       80 |
+|       50 |       72 |
+|       55 |       65 |
+|       60 |        1 |

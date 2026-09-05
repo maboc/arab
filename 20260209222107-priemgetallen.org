@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       4113065d-fd2f-477a-b930-042d7ecdb7fc
+:END:
+#+title: Priemgetallen
+Priemgetallen zijn getallen die alleen door zichzelf en door 1 deelbaar zijn zodat er een geheel getal onstaat.
+
+
+3:
+Deelbaar door 1 tot een geheel getal      : 3/1 = 3
+Niet deelbaar door 2 tot een geheel getal : 3/23 = 1,5
+Deelbaar door 3 tot een geheel getal      : 3/3 = 1
+
+3 is dus alleen deelbaar door 1 en door zichzelf en daarom _wel_ een priemgetal
+
+6:
+Deelbaar door 1 tot een geheel getal      : 6/1 = 6
+Deelbaar door 2 tot een geheel getal      : 6/2 = 3
+Deelbaar door 3 tot een geheel getal      : 6/3 = 2
+Niet deelbaar door 4 tot een geheel getal : 6/4 = 1,5
+Niet deelbaar door 5 tot een geheel getal : 6/5 = 1,2
+Deelbaar doot 6 tot een geheel getal      : 6/6 = 1
+
+6 is dus niet alleen deelbaar door 1 en zichzelf en dis daarom _niet_ een priemgetal
+
+
+Speciale priemgetallen:
+* [[id:d0ec66fc-4e93-4270-b2be-b6fba2876ddc][MersennePriemgetallen]]

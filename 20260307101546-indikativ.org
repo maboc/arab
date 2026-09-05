@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b80869e9-339e-4c01-b089-bd3299058c35
+:END:
+#+title: Indikativ
+
+
+Het Indikativ wordt gebruikt om feiten, realiteit en objectieve handelingen weer te geven.
+Dit kan dan natuurlijk in verschillende tijden:
+
+[[id:99fcd76a-3657-4c21-a53e-997c01548236][Indikativ_Präsens]]
+[[id:921779e5-65a3-47f8-8894-cafd4e064f02][Indikativ_Präteritum]]
+[[id:de86070e-380b-42c9-b435-432df83a5256][Indikativ_Perfekt]]
+[[id:ad2adb78-11fd-4881-b7a1-fc256b48bf6b][Indikativ_Plusquamperfekt]]

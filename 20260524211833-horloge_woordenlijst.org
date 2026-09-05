@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a1a4fa88-eacb-442e-a080-1f996100a436
+:END:
+#+title: Horloge Woordenlijst
+
+
+[[id:c9ba2060-740c-4994-8f93-8ae3fe753fb8][Bezel]]
+[[id:a6c967d6-cbeb-4226-bbdb-b6b9d9236c57][Complicaties]]
+[[id:c9ba2060-740c-4994-8f93-8ae3fe753fb8][Lunette]]
+[[id:fc2ae0ef-d1da-4e20-994f-55f600d015a8][Tachymeter]]

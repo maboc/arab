@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a8c2ea68-62cb-456d-9aa0-15f130a1dc0f
+:END:
+#+title: Glucose
+
+[[https://nl.wikipedia.org/wiki/Glucose][Glucose]]
+
+(Glucose komt van het griekse Gleukos/Glykis)
+
+Wordt door planten gemaakt tijdens de fotosynthese.
+Bron van energy in alle levenden organismen
+
+In de mitochondrien wordt glucose gebruikt om [[id:f621695c-5614-4b08-a873-e768fcd63e9d][Adenosinetrifosfaat]] te maken.
+
+Glucode kan in ringstructuur (cyclisch) als wel in ketenstructuur (acyclisch) voorkomen.
+In de natuur in een waterige oplogging is de ringcyclische glucose het meest stabiel.
+
+Druivesuiker :pure glucose: bron van directe energie voor sporters
+Dextrose wanneer het is toegvoegd als zoetmaker aan voedingsproducten
+
+

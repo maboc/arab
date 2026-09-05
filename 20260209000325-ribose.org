@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       40368d2c-d4c6-4199-94d5-c7069fcd5376
+:END:
+#+title: Ribose
+
+[[https://nl.wikipedia.org/wiki/Ribose][Wiki: Ribose]]
+
+Een [[id:576f77ac-0dc6-4d31-ae29-54d851e763f2][Mono sachariden]] (net als [[id:a8c2ea68-62cb-456d-9aa0-15f130a1dc0f][Glucose]], [[id:ad5db302-21fe-4324-8761-1b78e3e96254][Fructose]] en [[id:fdf3670f-1259-4fc0-9216-af33ff9992cf][Galactose]])
+Ribose is een mono sacharide.
+Het hoort ecter niet bij de hexoses maar bij de pentoses (5 koolstof atomen)
+
+Ribose is een essentieel onderdeel van [[id:f621695c-5614-4b08-a873-e768fcd63e9d][Adenosinetrifosfaat]]
+Daarnaast is het onderdeel/bouwstegen van RNA
+
+Het lichaam maakt onder normale omstandigheden zelf genoef ribose aan uit glucoxe

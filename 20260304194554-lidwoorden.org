@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c2ba6f2-8ae7-4f05-9faf-738a4816e878
+:END:
+#+title: Lidwoorden
+
+
+|           | Mannelijk | Vrouwlijl | neutral | Meervoud |
+|-----------+-----------+-----------+---------+----------|
+| Nominativ | der       | die       | das     | die      |
+| Genitiv   | des       | der       | des     | der      |
+| Dativ     | dem       | der       | dem     | den      |
+| Akkusativ | den       | die       | das     | die      |
+
+|           | Mannelijk | Vrouwlijk | Neutral | Meervoud |
+|-----------+-----------+-----------+---------+----------|
+| Nominativ | ein       | eine      | ein     | keine    |
+| Genitiv   | eines     | einer     | eines   | keiner   |
+| Dativ     | einem     | einer     | einem   | keinen   |
+| Akkusativ | einen     | eine      | ein     | keine    |
+

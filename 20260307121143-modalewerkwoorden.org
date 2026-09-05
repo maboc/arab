@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       6acc45f6-de7d-4386-a201-136991dee7b0
+:END:
+#+title: ModaleWerkwoorden
+
+Modale werkwoorden geven aan of iets moet/mag/kan... Het geeft min of meer het gevoel bij de zin aan.
+Er zijn 7 modale werkwoorden in het Duits
+
+| Duits    | Nederlands             |
+|----------+------------------------|
+| dürfen   | mogen                  |
+| müssen   | moeten                 |
+| mögen    | houden van/leuk vinden |
+| sollen   | moeten                 |
+| können   | kunnen                 |
+| wollen   | willen                 |
+| wissen * | weten                  |
+
+*
+Wissen ==> weten
+weissen ==> wijzen
+
+
+Präsens
+
+| Persoon      | dürfen | müssen | mögen      | sollen | können | wollen | wissen |
+|              | mogen  | moeten | houden van | moeten | kunnen | willen | weten  |
+|--------------+--------+--------+------------+--------+--------+--------+--------|
+| 1e enkelvoud | darf   | muss   | mag        | soll   | kann   | will   | weiß   |
+| 2e enkelvoud | darfst | musst  | magst      | sollst | kannst | willst | weißt  |
+| 3e enkelvoud | darf   | muss   | mag        | soll   | kann   | will   | weiß   |
+| 1e meervoud  | dürfen | müssen | mögen      | sollen | können | wollen | wissen |
+| 2e meervoud  | dürft  | müsst  | mögt       | sollt  | könnt  | wollt  | wisst  |
+| 3e meervoud  | dürfen | müssen | mögen      | sollen | können | wollen | wissen |
+
+Präteritum
+
+| Persoon      | dürfen   | müssen   | mögen      | sollen   | können   | wollen   | wissen   |
+|              | mogen    | moeten   | houden van | moeten   | kunnen   | willen   | weten    |
+|--------------+----------+----------+------------+----------+----------+----------+----------|
+| 1e enkvoud   | sollte   | musste   | mochte  *  | sollte   | konnte   | wollte   | weißte   |
+| 2e enkelvoud | solltest | musstest | mochtest   | solltest | konntest | wolltest | weißtest |
+| 3e enkelvoud | sollte   | musste   | mochte     | sollte   | konnte   | wollte   | weißte   |
+| 1e meervoud  | solten   | mussten  | mochten    | sollten  | konnten  | wollten  | weißten  |
+| 2e meervoud  | soltet   | musstet  | mochtet    | solltet  | konntet  | wolltet  | weißtet  |
+| 3e meervoud  | solten   | mussten  | mochten    | sollten  | konnten  | wollten  | weißten  |
+
+
+* Verwar deze niet met möchte, want dat komt uit de konjunktiv II 

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a6c967d6-cbeb-4226-bbdb-b6b9d9236c57
+:END:
+#+title: Complicaties
+
+De extra functies buiten de tijd op een horloge
+Denk aan Date/Day/Gang Reserve/Maan Fase

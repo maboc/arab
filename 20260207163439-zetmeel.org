@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       be9827b9-8b1d-4f44-a081-3a45a0926504
+:END:
+#+title: Zetmeel
+
+
+[[https://nl.wikipedia.org/wiki/Zetmeel][Wiki: zetmeel]]
+
+Een polymeer van [[id:576f77ac-0dc6-4d31-ae29-54d851e763f2][Mono sachariden]]
+Komt in de natuur voor als voedselreserve voor planten
+
+Wanneer er een polymeer is gevormd van alleen maar glucose, met de binding op 1 en 4,
+heet de polymeer amylose ([[https://nl.wikipedia.org/wiki/Amylose][Wiki: Amylose]]).
+In [[id:f9f4119c-86c6-4386-955c-19a3e9d0457f][Gerst]] kan amylose tot zo'n 2000 [[id:a8c2ea68-62cb-456d-9aa0-15f130a1dc0f][Glucose]] moleculen lang zijn.
+Amylose neemt de vorm aan van een spiraal (denk vorm DNA)
+
+Wanneer er ook bindingen zijn op 1 en 6 (ongeveer om de 30 glucose units) dan heet de polymeer Amylopectine.
+Amylopectine ([[https://nl.wikipedia.org/wiki/Amylopectine][Wiki: Amylopectine]]) kan wel meer dan 100.000 units lang zijn.
+
+Amylose is moeilijker om af te breken dan Amylopectine.
+
+Ongeveer 25% procent van het zetmeel bestaat uit amylose de rest is dan amylopectine.
+
+Er zijn ook nog ander suikers die niet tot het zetmeel behoren

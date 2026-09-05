@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       12dceddf-569e-4098-9b96-0a05655dd534
+:END:
+#+title: Mouten
+
+Mouten is het laten ontkiemen van [[id:f9f4119c-86c6-4386-955c-19a3e9d0457f][graan]] zodat er enzymen worden geproduceerd die later helpen bij
+afbreken van [[id:be9827b9-8b1d-4f44-a081-3a45a0926504][Zetmeel]].
+
+Stappen bij het mouten:
+1. Weken / Steeping : Het graan wordt ondergedompelt in een waterbad.
+   Het water percentage inde graan korrel neemt toe van +/- 12% tot 40%..45%
+2. Ontkiemen / germination/sprouting : Het graan gaat ontkiemen. Hier worden ook de essentiele [[id:b6a775f2-6d37-412d-80c9-c5a61ba89bf0][Enzymen]] gevormd
+   die later helpen bij het omzetten van zetmeel ([[id:576f77ac-0dc6-4d31-ae29-54d851e763f2][Poly sachariden]]) tot glucose ([[id:576f77ac-0dc6-4d31-ae29-54d851e763f2][Mono sachariden]]).
+   In deze fase wordt het (ontkiemende) graan steeds gekeerd/gedraaid om te voorkomen dat er schimmels ontstaan.
+   Daarnaast zorgt dit er vroor dat de wortels die ontstaan niet in elkaar verstrikt raken, waarodoor de massa niet meer te hanteren is. 
+3. Eesten / kilning
+   Door het ontkiemde mout nu te verwarmen/verhitten loopt het vochtpercentage terug naar <5%
+   En het kiemproces wordt gestopt. De kunst is natuurlijk (o.m.) om te weten wanneer te stoppen
+   - te lang door gaan met kiemen: er gaan al suikers in de groei van de opkomende plant zitten
+   - te kort door gaan met kiemen: er wordt niet de maximale hoeveelheid [[id:b6a775f2-6d37-412d-80c9-c5a61ba89bf0][Enzymen]] in het graan ontwikkeld,
+     waardoor het gisten minder efficient verloopt
+
+Bij het ontkiemen onstaan (of komen vrij) verschillende enzymen die helpen het zetmeel om te zetten
+naar eenvoudige suikers die nodig zijn vor het [[id:b8bb2207-a993-4c3a-8ad7-a124f621cef8][Gisten]].
+
+1. Beta Amylase
+   Voor het mouten begint bestaat er al beta-amylase
+   in vrijwel al onderdelen van de plant/korrel.
+   Beta amylase komt in vrije- en in gebonden vorm voor.
+   Deze gebonden beta amylase komt pas vrij bij het [[id:00174553-124b-404a-bcef-4ded32d9678f][maischen]] ([[id:00174553-124b-404a-bcef-4ded32d9678f][proteolysis]])
+
+2. Alpha Amylase
+   Alpha amylase ontstaat bij het ontkiemen
+   (samen met o.m. glucoamylase en dextrinase)
+
+Hoeveel van die enzymen blijven beschikbaar voor het maischen na het eesten/kilning.
+Dit wordt aangegeven in sastatische kracht van de mout. Dit staat in het
+COA (Certificate of Analysis)
+   
+   

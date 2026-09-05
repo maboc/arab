@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6c5b8678-805c-4bf5-b889-0cedf590468d
+:TIMELINE_START: 1947-11-29
+:TIMELINE_END: 1948-05-14
+:END:
+#+title: 1947 1948 Burgeroorlog
+#+filetags: :Israel:Palestina:
+
+Deze oorlog brak uit tussen Israel en verschillende Arabische groepen nadat de General Asembly van de United Nations
+een plan voor [[id:03442cd3-3af0-4187-9628-0265eebb373b][Partition Plan for Palastine]] aan raadde te accepteren.

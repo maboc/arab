@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       f2bf6e4a-08a3-4522-a08b-f003ae5f7ab7
+:TIMELINE_START: 1919-01-18
+:TIMELINE_END: 1920-01-21
+:END:
+#+title: Paris Peace Conference
+
+Na de [[id:9999d024-abb1-43f3-80c0-af57a419090b][Eerste Wereld Oorlog]] werd de Paris Peace Conference georganiseerd.
+Deze conferentie werd in Parijs en in het palijs van Versailles gehouden.
+HIer werd besloten het mandaat systeem van de [[id:fc7b64ef-cde2-44df-8bdd-d63966c0e999][Volkenbond]] in te voeren.
+
+Er werden tijden de PPC verschillende verdragen gesloten. De grootste was toch wel het [[id:6bdbeb44-1986-4720-a544-122764411b5e][Verdrag van Versailles]]
+Daarnaast werd de [[id:fc7b64ef-cde2-44df-8bdd-d63966c0e999][Volkenbond]] hier opgericht.
+
+Vier grote wereldleiders deden mee aan de conferentie:
+| Land      | Deelnemer          |
+|-----------+--------------------|
+| [[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]]       | [[id:db9d1b73-396f-4f35-9f8f-7dd223ad9161][Woodrow Wilson]]     |
+| [[id:54b8325a-0b93-417c-85bc-1921a3ee79c0][Engeland]]  | [[id:0448d79a-b090-42af-b45f-a616beac378e][David Lloyd George]] |
+| [[id:38b59b1d-f821-4bcf-a71f-69f9113a7cac][Frankrijk]] | [[id:21897f0c-4730-4502-8816-b06854072a64][Georges Clemenceau]] |
+| [[id:e3000dd4-b632-427e-978a-528642d3d5d8][Italie]]    | [[id:e15502be-cb39-4941-aaf8-6224558adbc5][Vittorio Orlando]]   |
+|           |                    |
+
+Ondermeer werd hier de verdeling van de Arabisch gebieden besloten. De Noord Afrikaanse gebieden waren in de voorgaande (koloniale) jaren reeds verdeeld.
+
+Verdeling:
+| Land      | Gebied             | Ligging       | Opmerking                     |
+|-----------+--------------------+---------------+-------------------------------|
+| [[id:54b8325a-0b93-417c-85bc-1921a3ee79c0][Engeland]]  | [[id:a2bb9de9-13c7-414b-aa88-b1487b2c134f][Mesopotamie]] ([[id:a2bb9de9-13c7-414b-aa88-b1487b2c134f][Irak]]) | Midden Oosten |                               |
+|           | [[id:a2f458a1-eb74-4c06-8843-29d15cd1e935][Transjordanie]]      | Midden Oosten |                               |
+|           | [[id:3198bff9-7a59-4484-8f71-94ff48fb89d0][Palestina]]          | Midden Oosten |                               |
+|           | [[id:6ed4b8a9-f665-4392-a065-68179c59ee8b][Egypte]]             | Noord Afrika  | Was al onder Brits gezag      |
+| [[id:38b59b1d-f821-4bcf-a71f-69f9113a7cac][Frankrijk]] | [[id:0631e9d2-0fae-4891-b654-ae9cf8c7f609][Syrie]]              | Midden Oosten |                               |
+|           | [[id:cb570ec5-8441-43ec-92a4-afc37e36351a][Libanon]]            | Midden Oosten |                               |
+|           | [[id:2e29fc83-bf77-4fc7-b7c9-0f06a276040a][Algerije]]           | Noord Afrika  | Was al onder Frans gezag      |
+|           | [[id:6769e64b-a183-485f-a817-3a98fb28cd51][Tunesie]]            | Noord Afrika  | Was al onder Frans gezag      |
+|           | [[id:a762aecb-9619-491c-8e01-2c2187083fd0][Marokko]]            | Noord Afrika  | Was al onder Frans gezag      |
+| [[id:e3000dd4-b632-427e-978a-528642d3d5d8][Italie]]    | [[id:59ed3046-1269-4749-9a29-2cf92a8c10a6][Libie]]              | Noord Afrika  | Was al onder Italiaanse gezag |
+|           |                    |               |                               |
+
+
+Let op: Dit werd de landen opgelegd. De Arabieren en Noord Afrikanen hadden hier helemaal geen vrede mee.
+

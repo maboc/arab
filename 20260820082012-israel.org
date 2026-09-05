@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0
+:TIMELINE_START: 1948
+:END:
+#+title: Israel
+#+filetags: :Israel:
+
+Israel is in 1948 gesticht.
+HIer aan vooraf ging de [[id:6ab9fa4e-52b0-4f7d-bca6-ee1468edb436][eerste Arabisch Israelische oorlog]]
+
+Regeringsleiders:
+
+| Regerings Leider   | Start | Eind |
+|--------------------+-------+------|
+|                    |       |      |
+| David Ben-Gurion   |  1948 | 1953 |
+| Moshe Sharett      |  1953 | 1955 |
+| David Ben-Gurion   |  1955 | 1963 |
+| Levi Eshkol        |  1963 | 1969 |
+| Yigal Allon        |  1969 | 1969 |
+| Golda Meir         |  1969 | 1974 |
+| Yitzhak Rabin      |  1974 | 1977 |
+| [[id:d62eee55-27e7-4038-ace4-f17834c16989][Menachem Begin]]     |  1977 | 1983 |
+| Yitzhak Shamir     |  1983 | 1984 |
+| Shimon Peres       |  1984 | 1986 |
+| Yithzak Shamir     |  1986 | 1992 |
+| Yithzak Rabin      |  1992 | 1995 |
+| Shimon Peres       |  1995 | 1996 |
+| [[id:8ea61898-825a-4ad3-8457-216bda2dbd48][Benjamin Netanyahu]] |  1996 | 1999 |
+| Ehud Barak         |  1999 | 2001 |
+| Ariel Sharon       |  2001 | 2006 |
+| Ehud Olmert        |  2006 | 2009 |
+| [[id:8ea61898-825a-4ad3-8457-216bda2dbd48][Benjamin Netanyahu]] |  2009 | 2021 |
+| Naftali Bennett    |  2021 | 2022 |
+| Yair Lapid         |  2022 | 2022 |
+| [[id:8ea61898-825a-4ad3-8457-216bda2dbd48][Benjamin Netanyahu]] |  2022 |    - |
+|                    |       |      |
+
+Zie ook  [[https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Israel][Wiki]] voor de regeringsleiders

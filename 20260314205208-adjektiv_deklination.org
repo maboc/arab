@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       8eaedbc3-8a5a-4710-91be-8be9313fcb42
+:END:
+#+title: Adjektiv-Deklination
+
+
+Bestimmten Artikel
+
+|           | männlich | Beispiel          | Fraulich | Beispiel        | Neuter | Beispiel          | Plural | Beispiel          |
+|-----------+----------+-------------------+----------+-----------------+--------+-------------------+--------+-------------------|
+| Nominativ | -e       | der nette Mann    | -e       | die nette Frau  | -e     | das nette Kind    | -en    | die netten Eltern |
+| Genitiv   | -en      | des netten Mannes | -en      | der netten Frau | -en    | des netten Kindes | -en    | des netten Eltern |
+| Dativ     | -en      | dem netten Mann   | -en      | der netten Frau | -en    | dem netten Kind   | -en    | den netten Eltern |
+| Akkusativ | -en      | den netten Mann   | -e       | die nette Frau  | -e     | das nette Kind    | -en    | die netten Eltern |
+
+
+Unbestimmten Artikel
+
+|           | Männlich | Beispiel            | Fraulich | Beispiel          | Neuter | Beispiel            | Plural | Beispiel             |
+|-----------+----------+---------------------+----------+-------------------+--------+---------------------+--------+----------------------|
+| Nominativ | -er      | ein netter Mann     | -e       | eine nette Frau   | -es    | ein nettes Kind     | -en    | meine netten Eltern  |
+| Genitiv   | -en      | eines netten Mannes | -en      | einer netten Frau | -en    | eines netten Kindes | -en    | meiner netten Eltern |
+| Dativ     | -en      | einem netten Mann   | -en      | einer netten frau | -en    | einem netten Kind   | -en    | meinen netten Eltern |
+| Akkusativ | -en      | einern netten Mann  | -e       | eine nette Frau   | -es    | ein nettes Kind     | -en    | meine netten Eltern  |
+
+
+Ohne Artikel
+
+|           | Männlich | Beispiel      | Fraulich | Beispiel    | Neuter | Beispiel    | Plural | Beispiel      |
+|-----------+----------+---------------+----------+-------------+--------+-------------+--------+---------------|
+| Nominativ | -er      | netter Mann   | -e       | nette Frau  | -es    | nettes Kind | -e     | nette Eltern  |
+| Genitiv   | -en      | netten Mannes | -er      | netter Frau | -en    | netten Kind | -er    | netter Eltern |
+| Dativ     | -em      | nettem Mann   | -er      | Netter Frau | -em    | nettem Kind | -en    | netten Eltern |
+| Akkusativ | -en      | netten Mann   | -e       | nette Frau  | -es    | nettes Kind | -e     | nette Eltern  |
+
+

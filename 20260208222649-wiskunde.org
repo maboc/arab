@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2a739b0-346b-4870-af87-f39396bb56ce
+:END:
+#+title: Wiskunde
+
+* [[id:5f4ae2c4-d7a7-4563-93d8-e11f7185102c][Goniometrie]]
+* [[id:6d475793-db91-46d0-972c-03562239f154][Diffrentieren]]
+* [[id:a2bbabd4-9a5f-4050-b986-95c452a462ca][Integreren]]
+* [[id:2d82924e-57aa-45ba-bb3e-59f96d12e5a9][SpecialeProducten]]
+* [[id:1c775bb2-a3a0-4672-977e-0150d52732c2][Vermoedens]]
+* [[id:4113065d-fd2f-477a-b930-042d7ecdb7fc][Priemgetallen]]

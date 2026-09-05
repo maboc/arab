@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4b810550-f3d1-4867-b419-4b0b5630f36a
+:END:
+#+title: Omega
+
+Modellen
+[[id:c3a97233-9172-49cb-b128-6ec9537063fb][Speedmaster]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       db9d1b73-396f-4f35-9f8f-7dd223ad9161
+:TIMELINE_START: 1913
+:TIMELINE_END: 1921
+:END:
+#+title: Woodrow Wilson
+#+filetags: :USA:
+
+Woodrow Wilson was de 28e president van de [[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]]
+
+|    Geboren |  Overleden | Start Termijn | Eind Termijn |
+|------------+------------+---------------+--------------|
+| 1856-12-28 | 1924-02-03 |          1913 |         1921 |
+|            |            |               |              |
+
+Woodrow Wilson deed de [[id:6ba67326-7dba-4fc9-9c6d-e833172753c6][King Crane Commissie]] het licht zien. 

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       0018e788-436d-42d4-af80-40e9472c7172
+:TIMELINE_START: 1932
+:TIMELINE_END: 1953
+:END:
+#+title: Abd al-Aziz ibn Abd al-Rahman al-Faysal al Sa'ud
+#+filetags: :Ibn Saud:
+
+
+| Naam                                             | geboren | overleden | Start Termijn | Eind Termijn |
+|--------------------------------------------------+---------+-----------+---------------+-------------- |
+| Abd al-Aziz ibn Abd al-Rahman al-Faysal al Sa'ud |    1876 |      1953 |          1932 |         1953 |
+|
+
+Wij kennen 'm beter als Ibn Saud.
+Ibn Saud was de "oprichter"/grondlegger van [[id:defd9daf-c259-48d4-8374-0df8903e3527][Saoedie Arabie]].
+
+De strijders van Ibn Saud waren de Ikhwan.
+(Niet te verwarren met de Moslim Broederschap, welke veel jaren later in [[id:6ed4b8a9-f665-4392-a065-68179c59ee8b][Egypte]] werd opgericht.)
+
+Deze Ikhwan waren volgers van het [[id:8700463b-7cc1-4502-b746-50e8fb5ce2bd][Wahhabisme]].
+
+Ibn Saud en zijn strijders wilden land terug winnen Shariff Husayn (vanuit Mekka).
+Sharif Husayn was uit de stam van de [[id:4c1c06db-91df-4e9e-93e0-ae2430876f7f][Hasjemieten]]
+
+Eigenlijk waren Shariff Husayn en Ibn Saud beide partner van [[id:54b8325a-0b93-417c-85bc-1921a3ee79c0][Engeland]].
+Engeland probeerde deze stijdende partners uitelkaar te houden.

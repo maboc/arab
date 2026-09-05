@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       fdf3670f-1259-4fc0-9216-af33ff9992cf
+:END:
+#+title: Galactose
+
+Galactose is een monosacharide dat sterk lijkt op [[id:a8c2ea68-62cb-456d-9aa0-15f130a1dc0f][Glucose]].
+In de lever kan galactose gemakkelijk worden omgezet in Glucose.
+
+Ook Galactose is een aldohexose

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9541771f-8209-406c-8b3f-aa77e7e6c3ca
+:END:
+#+title: Seiko Premier Kinetic Perpetual
+
+Mijn eerste (somewhat) echte machine
+
+Complicaties:
+- Datum (dag nummer)
+- Schrikkel jaar aanduiding
+- Maand
+- 24 uurs aanduiding
+
+Kaliber

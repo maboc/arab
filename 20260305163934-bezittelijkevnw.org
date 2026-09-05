@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       5797893a-ed3c-4deb-ba17-a7f08baf8ad2
+:END:
+#+title: Bezittelijkevnw
+
+|           | Mannelijk   | Vrouwelijk | Onzijdig    | Meervoud    |
+|-----------+-------------+------------+-------------+-------------|
+| Nominativ | mein        | meine      | mein        | meine       |
+| Genitiv   | meines (+s) | meiner     | meines (+s) | meiner      |
+| Dativ     | meinem      | meiner     | meinem      | meinen (+n) |
+| Akkusativ | meinen      | meine      | mein        | meine       |
+
+|           | Mannelijk   | Vrouwelijk | Onzijdig    | Meervoud    |
+|-----------+-------------+------------+-------------+-------------|
+| Nominativ | dein        | deine      | dein        | deine       |
+| Genitiv   | deines (+s) | deiner     | deines (+s) | deiner      |
+| dativ     | deinem      | deiner     | deinem      | deinen (+n) |
+| Akkusativ | deinen      | deine      | dein        | deine       |
+
+|           | Mannelijk   | Vrouwelijk | Onzijdig    | Meervoud    |
+|-----------+-------------+------------+-------------+-------------|
+| Nominativ | sein        | seine      | sein        | seine       |
+| Genitiv   | seines (+s) | seiner     | seines (+s) | seiner      |
+| Dativ     | seinem      | seiner     | seinem      | seinen (+n) |
+| Akkusativ | seinen      | seine      | sein        | seine       |
+
+|           | Mannelijk  | Vrouwelijk | Onzijdig   | Meervoud   |
+|-----------+------------+------------+------------+------------|
+| Nominativ | ihr        | ihre       | ihr        | ihre       |
+| Genitiv   | ihres (+s) | ihrer      | ihres (+s) | ihrer      |
+| Dativ     | ihrem      | ihrer      | ihrem      | ihren (+n) |
+| Akkusativ | ihren      | ihre       | ihr        | ihre       |
+
+|           | Mannelijk    | Vrouwelijk | Onzijdig     | meervoud     |
+|-----------+--------------+------------+--------------+--------------|
+| Nominativ | unser        | unsere     | unser        | unsere       |
+| Genitiv   | unseres (+s) | unserer    | unseres (+s) | unserer      |
+| Dativ     | unserem      | unserer    | unserem      | unseren (+n) |
+| Akkusativ | unseren      | unsere     | unser        | unsere       |
+
+|           | Mannelijk   | Vrouwelijk | Onzijdig    | Meervoud |
+|-----------+-------------+------------+-------------+----------|
+| Nominativ | euer        | eure       | eur         | eure     |
+| Genitiv   | eueres (+s) | eurer      | eueres (+s) | eurer    |
+| Dativ     | eurem       | eurer      | euerem      | euren (+n) |
+| Akkusativ | euren       | eure       | euer        | eure     |
+
+|            | Mannelijk   | Vrouwelijk | Onzijdig   | Meervoud   |
+|------------+-------------+------------+------------+------------|
+| Nominatief | ihr         | ihre       | ihr        | ihre       |
+| Genitiv    | ihres  (+s) | ihrer      | ihres (+s) | ihrer      |
+| Dativ      | ihrem       | ihrer      | ihrem      | ihren (+n) |
+| Akkusativ  | ihren       | ihre       | ihr        | ihre       |
+
+

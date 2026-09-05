@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       ad5db302-21fe-4324-8761-1b78e3e96254
+:END:
+#+title: Fructose
+
+[[https://nl.wikipedia.org/wiki/Fructose][Fructose]]
+
+Fructose is ongeveer 2,5 keer zo zoet als glucose.
+Fructose is ongeveer 1,7 keer zo zoet als sacharose (tafelsuiker)

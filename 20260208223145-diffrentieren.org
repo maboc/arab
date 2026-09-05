@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6d475793-db91-46d0-972c-03562239f154
+:END:
+#+title: Diffrentieren
+
+dy/dx
+
+y=a --> y'=0
+y=ax --> y'=ax^0=a
+y=ax^2 --> y'=2ax
+y=ax^3 --> y'=3ax^2
+
+y=sin(x) --> y'=cos(x)
+y=cos(x) --> y'=-sin(x)
+y=tan(x) --> y'=q/(cos(x)^2)

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a61e6784-c42e-4002-96af-e7569516da1b
+:TIMELINE_START: 1994-05-04
+:ROAM_ALIASES: Cairo-Akkoord Gaza-Jericho-Akkoord
+:END:
+#+title: Tussen Akoord
+#+filetags: :OsloAkoorden:
+
+
+Dit tussen akkoord is een onderdeel van de [[id:75bab19d-f033-45b8-b50a-2c07e5626b24][Oslo Akkoorden]]
+HIeraan vooraf ging [[id:1876208f-4b93-4a32-ab12-724c5d085dfa][Oslo I]]. Na dit akoord volge uiteindelijk [[id:a0edad89-4b79-4f6d-936d-9d20646eb4f0][Oslo II]]
+

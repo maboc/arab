@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f621695c-5614-4b08-a873-e768fcd63e9d
+:END:
+#+title: Adenosinetrifosfaat
+
+Adenosinetrifosfaat (ATP) wordt gevormd uit (onder meer (?)) Glucose
+ATP is de universele energiedrager in cellen.

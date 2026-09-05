@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       47037709-7b60-4615-81f2-2f63152f4abd
+:END:
+#+title: Persoonlijkevnw
+
+|                        | Nominativ | genitiv | dativ | akkusativ |
+|------------------------+-----------+---------+-------+-----------|
+| 1e pers enkelv         | ich       | meiner  | mir   | mich      |
+| 2e pers enkelv         | du        | deiner  | dir   | dich      |
+| 3e pers enkevoud (hij) | er        | seiner  | ihm   | ihn       |
+| 3e pers enkelv (zij)   | sie       | ihrer   | ihr   | sie       |
+| 3e pers enkelv (het)   | es        | seiner  | ihm   | es        |
+| 1e pers meerv          | wir       | unser   | uns   | uns       |
+| 2e pers meerv          | ihr       | euer    | euch  | euch      |
+| 3e pers meerv          | sie       | ihrer   | ihnen | sie       |

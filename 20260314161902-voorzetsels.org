@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       02656b49-6cdd-4316-897f-0589cb3d152c
+:END:
+#+title: Voorzetsels
+
+Nominativ : geen voorzetsels
+[[id:fd4318e3-3273-46f3-90d9-f1269d1b8ccb][Genitiv]]
+[[id:b325311d-977e-437e-a64e-9573d2dda194][Dativ]]
+[[id:bb1e85dc-1219-4ba8-a619-6583aaa35ac9][Akkusativ]]
+[[id:3c2ae810-ba51-4869-9c69-1b80d01c5d1d][Wechselpräpositionen]]

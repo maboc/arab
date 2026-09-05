@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a2bbabd4-9a5f-4050-b986-95c452a462ca
+:END:
+#+title: Integreren
+
+y=a --> Y=ax+c
+y=ax --> Y=(1/2)ax^2 + C
+y=ax2 --> Y=1/3 ax^3 + C
+
+y=sin(ax) --> Y=-(1/a)cos(ax) + C
+y=cos(ax) --> Y=(1/a)cos(ax) +C
+y=tan(ax) --> Y=-(1/a) ln|cos(ax)| +C
+

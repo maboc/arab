@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54b8325a-0b93-417c-85bc-1921a3ee79c0
+:END:
+#+title: Engeland
+
+
+Lijst van regeringsleiders
+| Naam               | Start Termijn | Eind Termijn |
+|--------------------+---------------+--------------|
+| [[id:0448d79a-b090-42af-b45f-a616beac378e][David Lloyd George]] |          1916 |         1922 |
+|                    |               |              |

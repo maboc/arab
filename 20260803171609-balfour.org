@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       8a7a3dd5-6d80-462c-8940-e78a4743971c
+:TIMELINE_START: 1917-11-02
+:END:
+#+title: Balfour Declaratie
+
+
+Gedateerd : 1917/11/02
+
+Een brief van de Minister van Buitenlandse zaken (foreign Secretary) Arthur Balfour aan Lord Rothschild.
+Rotschild was een leider in de British Jewish Community.
+De brief was bestemd voor de Zionist Federation of Great Britain and Ireland.
+
+De tekst van de brief:
+
+His Majesty's Government view with favour the establishment in Palestine of a national home for the Jewish people,
+and will use their best endeavours to facilitate the achievement of this object,
+it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities in Palestine,
+or the rights and political status enjoyed by Jews in any other country.
+
+Publiek gemaakt : 1917/11/09
+
+Deze Brief is ondermeer ook naar [[id:97df67e2-04cc-44b3-b77a-36acecaa37a5][Chaim Weizmann]] gestuurd.

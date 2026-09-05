@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e846a642-98dd-4bbd-a1ee-bc551b4ddc3f
+:END:
+#+title: Islam
+
+Verschillende Stromingen:
+- [[id:1935ba70-7f86-4231-86a3-6c40d31f179c][Soenisme]]
+- [[id:1f299560-bfef-431a-a7e3-54a063b8b086][Shi'isme]]
+- [[id:8700463b-7cc1-4502-b746-50e8fb5ce2bd][Wahhabisme]]
+- [[id:be0a0f19-0639-4095-b62a-63cc7c224253][Salafisme]]
+
+  

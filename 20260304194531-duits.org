@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f9110029-6692-40ff-b2bd-4dd585f09b2a
+:END:
+#+title: Duits
+
+[[id:8eaedbc3-8a5a-4710-91be-8be9313fcb42][Adjektiv-Deklination]]
+[[id:1c2ba6f2-8ae7-4f05-9faf-738a4816e878][Lidwoorden]]
+[[id:e29d1a7a-b1c5-48e2-806f-68da2d8e271d][Voornaamwoorden]]
+[[id:8e6ba3fc-ec6b-4872-b7f2-b3a481cca522][Werkwoorden]]
+

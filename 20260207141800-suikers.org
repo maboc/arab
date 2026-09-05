@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       576f77ac-0dc6-4d31-ae29-54d851e763f2
+:ROAM_ALIASES: "Mono sachariden" "Di sachariden" "Poly sachariden"
+:END:
+#+title: Suikers
+
+* Suikers
+** Meervoudige suikers
+*** Poly sachariden
+**** Zetmeel
+[[id:be9827b9-8b1d-4f44-a081-3a45a0926504][Zetmeel]]
+
+**** Cellulose
+[[id:8323d276-f9aa-4784-91a8-bffbc2a2b502][Cellulose]]
+
+** Tweevoudieg suikers
+*** Disachariden
+**** Sucrose/Sacharose
+[[id:922b53d8-4b25-4c09-a4c5-fe79d65297f3][Sucrose]]
+
+** Enkelvoudige suikers
+*** Mono sachariden
+**** glucose
+[[id:a8c2ea68-62cb-456d-9aa0-15f130a1dc0f][Glucose]]
+
+**** Fructose
+[[id:ad5db302-21fe-4324-8761-1b78e3e96254][Fructose]]
+
+**** Ribose
+[[id:40368d2c-d4c6-4199-94d5-c7069fcd5376][Ribose]]
+
+
+Glucose, Fructose en galactose hebben allen dezelfde molecuulformule : C6H12O6 Dit zijn allen Hexoses.
+Ribose is een pentose en heeft molecuulformule : C5H10O5
+
+Combinaties van momomeren
+Glucose  Fructose Galactose 
+1        1                   ==> sacharose/sucrose
+2                            ==> maltose (moutsuiker; zit bv. in bier)
+1                 1          ==> lactose (melksuiker)
+1        1        1          ==> raffinose (veel in bonen/kool/spruitjes/broccoli)
+
+Raffinose wordt door mesnen lastige verteerd.
+In de onderste darmen ontstaat er flinke gasvorming
+
+Zoetheid:
+Sucrose  : 1,0
+Fructose : 1,7
+FLucose  : 0,8
+Lactose  : 0,16
+Maltose  : 0,45

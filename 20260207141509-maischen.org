@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       00174553-124b-404a-bcef-4ded32d9678f
+:ROAM_ALIASES: proteolysis
+:END:
+#+title: Maischen
+
+Maischen is het omzetten van de in de mout aanwezige zetmelen in vergistbare
+suikers. Tijdens het mouten zijn er diverse enzymen gevormd die in staat zijn
+zetmeel (complexe) suikers om te zetten in enkelvoudige [[id:576f77ac-0dc6-4d31-ae29-54d851e763f2][Suikers]].
+Door de mout op te lossen in water en dit water te verwarmen gaan de enzyemen
+de zetmeel omzetten naar enklvoudige suikers.
+
+Het eindproduct van het maischen is Wort.
+
+
+Ook worden er door enzymen eiwitten afgebroken tot aminozuren. Ook deze aminozuren
+hebben invloed op de wort. (proteolysis van eiwitten tot aminozuren en (poly)peptiden
+door hydrolysis van de peptide binding)
+
+Een van de meer belangrijke enzynmen is voor de zetmeel afbraak amylase.
+
+Deze enkelvoudige suikers zijn nodig voor het [[id:b8bb2207-a993-4c3a-8ad7-a124f621cef8][Gisten]].
+
+| Suiker in de oplossing | Percentage |
+|------------------------+------------|
+| Maltose                |         41 |
+| Maltotrisoe            |         14 |
+| maltotetraose          |          6 |
+| Sucrose                |          6 |
+| Glucose/Fructose       |          9 |
+| Dextrines              |         22 |
+| NIet zetmeel suikers   |          2 |
+|------------------------+------------|
+| Totaal                 |        100 |
+#+TBLFM: @9$2=vsum(@2..@8)
+
+Alpha en beta Amylase kan de 1-4 bindingen breken in zetmeel.
+Alpha A (is een endo amylase) kan dit overal tot de grens van een 1-6 binding.
+Beta A (is een exo amylase) kan alleen aan het eind van een keten binnen
+3 glucose units van een 1-6 binding aan het werk 
+
+Je zou kunnen zeggen dat alpaha amylase lange ketes in stukken hakt,
+en dat beta amylase knabbelt van die lange strengen maltose af.
+
+Alleen alpha amylase zou zo'n 20% ter vergisten suikers opleveren.
+Door de beta amylases stijgt dit naar zo'n 70%. Door het "debranching enzym" toe te
+voegen gaat dit nog naar de 80%.
+
+Werkzomstandigheden:
+| Enzyme        | temperatuur | PH  | Gaat kapot bij |
+|               |         [C] |     | [C]            |
+|---------------+-------------+-----+----------------|
+| beta amylase  |          55 | 5,7 | 68             |
+| alpha amylase |          65 | 5,3 |                |
+
+Andere zaken die de omzetting van zetmeel in vergistbare suikers beinvloeden zijn:
+- vloeibaarheid van de maisch
+- Aanwezigheid andere elementen
+
+Voor het creeeren van een heel erg droog bier moet echt zoveel mogelijk zetmeel
+omgezet in vergistbare suikers. Het kan dan nodig zijn om extra enzymen toe te
+voegen.

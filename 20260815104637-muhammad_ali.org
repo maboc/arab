@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e66a07b2-d439-4b0f-a9e2-472964443102
+:TIMELINE_START: 1769-03-04
+:TIMELINE_END: 1849-08-02
+:END:
+#+title: Muhammad Ali
+#+filetags: :Egypte:
+
+Een van de grote leiders van [[id:6ed4b8a9-f665-4392-a065-68179c59ee8b][Egypte]].
+Geboren 1769-03-04
+Overleden 1849-08-02
+
+Muhammad Ali was een Ottomaanse veldheer die een groot deel van de [[id:bc611d7e-05a0-4988-878f-928861f98f52][Mamluk]]

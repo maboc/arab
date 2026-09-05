@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e29d1a7a-b1c5-48e2-806f-68da2d8e271d
+:END:
+#+title: Voornaamwoorden
+
+
+[[id:5797893a-ed3c-4deb-ba17-a7f08baf8ad2][Bezittelijk]]
+[[id:47037709-7b60-4615-81f2-2f63152f4abd][Persoonlijk]]

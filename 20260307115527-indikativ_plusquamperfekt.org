@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ad2adb78-11fd-4881-b7a1-fc256b48bf6b
+:END:
+#+title: Indikativ_Plusquamperfekt
+
+De plusquamperfekt gerbuik je als iets voor iets anders is gedaan/gebeurd.
+Voorbeeld : Voordat we verhuisden, hadden we er al eens geslapen.
+
+(Indikativ dus het is ook echt gebeurd. m.a.w. het is geen wens o.i.d)
+
+Zwakke werkwoorden
+
+| Persoon      | Vorming                        | Voorbeeld               | Vertaling               |
+|--------------+--------------------------------+-------------------------+-------------------------|
+| 1e enkelvoud | ich hatte/war + partizip II    | ich hatte gewohnt       | ik had gewoond          |
+| 2e enkelvoud | du hattest/warst + partizip II | du hattest gewohnt      | je had gewoond          |
+| 3e enkelvoud | er/sie/es hatte + partizip II  | er/sie/es hatte gewohnt | hij/zij/het had gewoond |
+| 1e meervoud  | wir hatten/waren + partizip II | wir hatten gewohnt      | wij hadden gewoond      |
+| 2e meervoud  | ihr hattet/wart + partizip II  | iht hattet gewohnt      | jullie hadden gewoond   |
+| 3e meervoud  | sie hatten/waren + partizip II | sie hatten gewohnt      | zij hadden gewoond      |

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       921779e5-65a3-47f8-8894-cafd4e064f02
+:END:
+#+title: Indikativ_Präteritum
+
+Het Präteritum gebruik je als de "normale" onvoltooid verleden tijd (VT) 
+
+
+| Persoon      | Vorming werkwoord  | voorbeeld        | vertaling          |
+|--------------+--------------------+------------------+--------------------|
+| 1e enkelvoud | ich stam +te       | ich wohnte       | ik woonde          |
+| 2e enkelvoud | du stam +te +st    | du wohntest      | jij woonde         |
+| 3e enkelvoud | er/sie/es stam +te | er/sie/es wohnte | hij/zij/het woonde |
+| 1e meervoud  | wir stam +te +n    | wir wohnten      | wij woonden        |
+| 2e meervoud  | ihr +stam + te +t  | ihr wohntet      | jullie woonden     |
+| 3e meervoud  | sie stam +te +n    | sie wohnten      | zij woonden        |

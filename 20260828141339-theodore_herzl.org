@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6916f4ad-dce4-42c9-bfaa-4f35889704f4
+:TIMELINE_START: 1896
+:END:
+#+title: Theodore Herzl
+
+Theodore Herzl was een Weense Journalist. Hij schreef het boek "The Jewish State" (1896)
+In dit boek werd het idee van een Joodse staat (in het gebied [[id:3198bff9-7a59-4484-8f71-94ff48fb89d0][Palestina]]) uitgewerkt.
+
+Herzl en zijn boek wakkerden Joods nationalisme aan. Dit Joods Nationalisme werd
+bekend onder de naam [[id:e8f54e88-0b73-4318-b5f8-20b3697802e8][Zionisme]]
+
+In 1897 organiseerde Herzl het eerste Zionistische congres,
+waarin het World Zionist Organisation werd opgericht.
+Leider van het deze Organisatie was 

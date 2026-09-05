@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5f4ae2c4-d7a7-4563-93d8-e11f7185102c
+:END:
+#+title: Goniometrie
+
+sin(a)=overtaande zijde/hypothenusa
+cos(a)=aanliggende zijde/hypothenusa
+tan(a)=overstaande zijde/aanliggende zijde
+Cotan(a)=1/tan(a)=1/(overstaande zijde/aanliggende zijde)=aanliggende zijde/overstaande zijde
+Sec=1/cos(a)=1/(aanliggende zijde/hypothenusa)=hypothenusa/aanliggende zijde
+Cosec=1/sin(a)=1/(overstaande zijde/hypothenusa)=hypothenua/overstaande zigjde
+
+tan(a)=sin(a)/cos(a)
+
+sin2(a)+cos2(a)=1

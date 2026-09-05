@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6ed4b8a9-f665-4392-a065-68179c59ee8b
+:END:
+#+title: Egypte
+
+Lijst van leiders (in de breedste zin van het woord)
+
+| Leider       | Start periode | Eind periode |
+|--------------+---------------+--------------|
+| [[id:e66a07b2-d439-4b0f-a9e2-472964443102][Muhammad Ali]] |               |         1848 |
+| [[id:26854881-0ce9-4acc-b7ff-7089fa9bed7a][Abbas Pasha]]  |          1848 |         1854 |
+| [[id:189b01f6-d06b-4488-84ca-caf9c82886b1][Said Pasha]]   |          1854 |         1863 |
+| [[id:e0ea22db-54c7-4618-8c99-845d3ddf23a9][Ismail Pasha]] |          1863 |         1879 |
+|              |               |              |

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       75bab19d-f033-45b8-b50a-2c07e5626b24
+:END:
+#+title: Oslo Akkoorden
+#+filetags: :OsloAkoorden:
+
+De Oslo Akkoorden zijn een "gevolg" van de [[id:b1ce3372-1011-4dae-926f-703ae63b3893][Camp David Akkoorden]] bestaan eigenlijk uit verschillende "tussen" akkoorden.
+
+[[id:1876208f-4b93-4a32-ab12-724c5d085dfa][Oslo I]]
+[[id:a0edad89-4b79-4f6d-936d-9d20646eb4f0][Oslo II]]
+[[id:a61e6784-c42e-4002-96af-e7569516da1b][Tussen Akoord]]

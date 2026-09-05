@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6769e64b-a183-485f-a817-3a98fb28cd51
+:END:
+#+title: Tunesie
+#+filetags: :Tunesie:
+
+Lijst van leiders:
+
+| Naam         | Start | Eind |
+|--------------+-------+------|
+| Ahmad Bey    |  1837 | 1855 |
+| Khair al-Din |       |      |
+
+In 1861 kreeg Tunesie voor het eerst een constitutie zoals veel landen in het [[id:63346b69-7965-4807-a019-c99ccd76bf68][Ottomaanse Rijk]]
+ naar voorbeeld van Weste Europerse landen.
+

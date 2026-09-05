@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3c2ae810-ba51-4869-9c69-1b80d01c5d1d
+:END:
+#+title: Wechselpräpositionen
+
+An
+Auf
+Hinter
+In
+Neben
+Über
+Unter
+Vor
+Zwischen
+
+Akkusativ : Wohin/Richtung
+Dativ: Wo/Ort/Zustand

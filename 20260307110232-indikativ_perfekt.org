@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       de86070e-380b-42c9-b435-432df83a5256
+:END:
+#+title: Indikativ_Perfekt
+
+
+Zwakke werkwoorden
+
+| Persoon      | vorming                         | voorbeeld             | vertaling                 |
+|--------------+---------------------------------+-----------------------+---------------------------|
+| 1e enkelvoud | ich habe/bin + partizip II      | ich habe gewohnt      | ik heb gewoond            |
+| 2e enkelvoud | du hast/bist + partizip II      | du hast gewohnt       | jij hebt gewoond          |
+| 3e enkelvoud | er/sie/es hat/ist + partizip II | er/sie/es hat gewohnt | hij/zij/het heeft gewoond |
+| 1e meervoud  | wir haben/sind + partizip II    | wir haben gewohnt     | wij hebben gewoond        |
+| 2e meervoud  | ihr habt/seid + partizip II     | ihr habt gewohnt      | jullie hebben gewoond     |
+| 3e meervoud  | sie haben/sind + partizip II    | sie haben gewohnt     | zij hebben gewoond        |

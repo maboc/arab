@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       bcac38df-bdb4-4f0a-a2a1-d3ac4ac60398
+:ROAM_ALIASES: haben sein werden
+:END:
+#+title: SeinHaben
+
+*Präsens*
+
+| Persoon      | Sein          | Haben         | Werden         |
+|--------------+---------------+---------------+----------------|
+| 1e enkelvoud | ich bin       | ich habe      | ich werde      |
+| 2e enkelvoud | du bist       | du hast       | du wirst       |
+| 3e enkelvoud | er/sie/es/ist | er/sie/es hat | er/sie/es wird |
+| 1e meervoud  | wir sind      | wir haben     | wir werden     |
+| 2e meervoud  | ihr seid      | ihr habt      | ihr werdet     |
+| 3e meervoud  | sie sind      | sie haben     | sie werden     |

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       defd9daf-c259-48d4-8374-0df8903e3527
+:END:
+#+title: Saoedie Arabie
+
+Leiders
+
+| Naam                                             | Start Termijn | Eind Termijn |
+|--------------------------------------------------+---------------+--------------|
+| [[id:0018e788-436d-42d4-af80-40e9472c7172][Abd al-Aziz ibn Abd al-Rahman al-Faysal al Sa'ud]] |          1932 |         1953 |
+|                                                  |               |              |
+

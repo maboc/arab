@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e0ea22db-54c7-4618-8c99-845d3ddf23a9
+:TIMELINE_START: 1863
+:TIMELINE_END: 1879
+:END:
+#+title: Ismail Pasha
+#+filetags: :Egypte:
+
+Leider van [[id:6ed4b8a9-f665-4392-a065-68179c59ee8b][Egypte]] van 1863 tot 1879

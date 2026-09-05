@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1876208f-4b93-4a32-ab12-724c5d085dfa
+:TIMELINE_START: 1993-09-13
+:END:
+#+title: Oslo I
+#+filetags: :OsloAkoorden:
+
+Oslo I is het eerste resultaat uit [[id:75bab19d-f033-45b8-b50a-2c07e5626b24][Oslo Akkoorden]]
+Hierna volge een [[id:a61e6784-c42e-4002-96af-e7569516da1b][Tussen Akoord]]

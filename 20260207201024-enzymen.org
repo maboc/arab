@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b6a775f2-6d37-412d-80c9-c5a61ba89bf0
+:END:
+#+title: Enzymen
+
+Enzymen zijn stoffen die helpen bij andere chemische processen. Zo helpt amylase bij het omzetten van zetmeel naar
+enkelvoudige Suikers ([[id:576f77ac-0dc6-4d31-ae29-54d851e763f2][Mono sachariden]])
+

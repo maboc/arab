@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1c775bb2-a3a0-4672-977e-0150d52732c2
+:END:
+#+title: Vermoedens
+
+* [[id:e2f72ec3-e0a0-4894-baac-0cf6ed81dce1][Collatz]]
