@@ -6,7 +6,7 @@
 #+title: Paris Peace Conference
 
 Na de [[id:9999d024-abb1-43f3-80c0-af57a419090b][Eerste Wereld Oorlog]] werd de Paris Peace Conference georganiseerd.
-Deze conferentie werd in Parijs en in het palijs van Versailles gehouden.
+Deze conferentie werd in Parijs en in het paleis van Versailles gehouden.
 HIer werd besloten het mandaat systeem van de [[id:fc7b64ef-cde2-44df-8bdd-d63966c0e999][Volkenbond]] in te voeren.
 
 Er werden tijden de PPC verschillende verdragen gesloten. De grootste was toch wel het [[id:6bdbeb44-1986-4720-a544-122764411b5e][Verdrag van Versailles]]
