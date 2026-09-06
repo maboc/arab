@@ -5,8 +5,18 @@
 
 Presidenten
 
-| Naam           | Nummer | Start termein | Eind Termein |
-|----------------+--------+---------------+--------------|
-| [[id:db9d1b73-396f-4f35-9f8f-7dd223ad9161][Woodrow Wilson]] |     28 |          1913 |         1921 |
-| [[id:c0bad934-a536-41e1-bcf6-96c3de0f4429][Jimmy Carter]]   |     39 |          1977 |         1981 |
-|                |        |               |              |
+| Naam             | Nummer | Start termein | Eind Termein |
+|------------------+--------+---------------+--------------|
+| [[id:db9d1b73-396f-4f35-9f8f-7dd223ad9161][Woodrow Wilson]]   |     28 |          1913 |         1921 |
+| [[id:c0bad934-a536-41e1-bcf6-96c3de0f4429][Jimmy Carter]]     |     39 |          1977 |         1981 |
+|                  |        |               |              |
+| Ronald Reagan    |     40 |          1981 |         1989 |
+| George H.W. Bush |     41 |          1989 |         1993 |
+| Bill Clinton     |     42 |          1993 |         2001 |
+| George W. Bush   |     43 |          2001 |         2009 |
+| Barack Obama     |     44 |          2009 |         2017 |
+| Donald J. Trump  |     45 |          2017 |         2021 |
+| Joe Biden        |     46 |          2021 |         2025 |
+| Donald J. Trump  |     47 |          2025 |            - |
+|                  |        |               |              |
+
