@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       21de1b03-f765-4f60-8746-9976d29cce0b
+:END:
+#+title: Ramsay Mac-Donald
+
+Regeringsleider [[id:aabcf666-5532-4d4d-a524-53dd9823b804][Groot Britannie]]
+
+| Naam              | Geboren    | Overleden  | Start Termijn | Eind Termijn |
+|-------------------+------------+------------+---------------+--------------|
+| Ramsay Mac-Donald | 1866/10/12 | 1937/11/09 |          1924 |         1924 |
+|                   |            |            |          1919 |         1935 |
+|                   |            |            |               |              |
+|-------------------+------------+------------+---------------+--------------|
+
+
+Mac-Donald was onder meer bekend vanwege de [[id:601c730b-335a-4bba-bb41-9f0ae2af710f][Mac-Donald Black Letter]]

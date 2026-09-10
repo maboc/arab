@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       aabcf666-5532-4d4d-a524-53dd9823b804
+:END:
+#+title: Groot Britannie
+
+
+Leist van regeringsleider:
+
+| Naam              | Geboren    | Overleden  | Start Termijn | Eind Termijn |
+|-------------------+------------+------------+---------------+--------------|
+| [[id:21de1b03-f765-4f60-8746-9976d29cce0b][Ramsay Mac-Donald]] | 1866/10/12 | 1937/11/09 |          1924 |         1924 |
+|                   |            |            |          1919 |         1935 |
+|                   |            |            |               |              |
+|-------------------+------------+------------+---------------+--------------|
+
