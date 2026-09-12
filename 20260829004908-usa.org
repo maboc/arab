@@ -9,7 +9,6 @@ Presidenten
 |------------------+--------+---------------+--------------|
 | [[id:db9d1b73-396f-4f35-9f8f-7dd223ad9161][Woodrow Wilson]]   |     28 |          1913 |         1921 |
 | [[id:c0bad934-a536-41e1-bcf6-96c3de0f4429][Jimmy Carter]]     |     39 |          1977 |         1981 |
-|                  |        |               |              |
 | Ronald Reagan    |     40 |          1981 |         1989 |
 | George H.W. Bush |     41 |          1989 |         1993 |
 | Bill Clinton     |     42 |          1993 |         2001 |
@@ -22,4 +21,5 @@ Presidenten
 
 
 
-Een van de grote events in de USA was 
+Een van de grote events in de USA was [[id:b4f3aa41-38f3-4f86-9fbf-28535eb076b8][9/11]]
+
