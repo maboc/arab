@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       5bb64669-f718-45c0-ad60-654c69cc315b
+:END:
+#+title: al-Qaeda
+
+Islamitische terreur-organisatie verantwoordelijk voor de [[id:b4f3aa41-38f3-4f86-9fbf-28535eb076b8][9/11]] aanvallen op de [[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]]
+Al-Qaeda is (mede) opgericht door [[id:00c06dae-ac39-4b8d-bb1a-2a5f99a0c2b5][Osama Bin Laden]].
+

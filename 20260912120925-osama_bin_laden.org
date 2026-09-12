@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       00c06dae-ac39-4b8d-bb1a-2a5f99a0c2b5
+:TIMELINE_START: 1957-03-10
+:TIMELINE_END: 2011-05-02
+:END:
+#+title: Osama Bin Laden
+
+
+| Naam            |    Geboren |  Overleden |
+|-----------------+------------+------------|
+| Osama Bin Laden | 1957-03-10 | 2011-05-02 |
+|-----------------+------------+------------|
+
+
+
+Leider van [[id:5bb64669-f718-45c0-ad60-654c69cc315b][al-Qaeda]]
