@@ -8,6 +8,7 @@ Presidenten
 | Naam             | Nummer | Start termein | Eind Termein |
 |------------------+--------+---------------+--------------|
 | [[id:db9d1b73-396f-4f35-9f8f-7dd223ad9161][Woodrow Wilson]]   |     28 |          1913 |         1921 |
+|                  |        |               |              |
 | [[id:c0bad934-a536-41e1-bcf6-96c3de0f4429][Jimmy Carter]]     |     39 |          1977 |         1981 |
 | Ronald Reagan    |     40 |          1981 |         1989 |
 | George H.W. Bush |     41 |          1989 |         1993 |
