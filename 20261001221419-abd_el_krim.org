@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d0a24018-fd06-4072-8fa6-280a2c02ed51
+:TIMELINE_START: 1883
+:TIMELINE_END: 1963-02-06
+:END:
+#+title: Abd el Krim
+
+| Naam                 | Geboren | Overleden |
+|----------------------+---------+-----------|
+| Mohammad Abd el Krim |    1883 |      1963 |
+|                      |         |           |
+
+Mohammad Abd el Krim was een leider uit het Rif gebergte.
+Hij was de aanvoerder in de Rif Opstand. Hierin trokken Riffianen ten strijde tegen de Spaande overheersers.
