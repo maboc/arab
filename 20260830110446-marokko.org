@@ -2,6 +2,12 @@
 :ID:       a762aecb-9619-491c-8e01-2c2187083fd0
 :END:
 #+title: Marokko
+#+STARTUP: inlineimages
+
+#+CAPTION: This is the caption for the next figure link (or table)
+#+NAME:   fig:SED-HR4049
+[[/home/martijn/Downloads/Flag_of_Morocco.svg]]
+
 
 Een grote naam uit de geschiedenis van Marokko : [[id:d0a24018-fd06-4072-8fa6-280a2c02ed51][Abd el Krim]]
 
