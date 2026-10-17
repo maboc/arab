@@ -13,9 +13,9 @@ Regeringsleiders:
 | Regerings Leider   | Start | Eind |
 |--------------------+-------+------|
 |                    |       |      |
-| David Ben-Gurion   |  1948 | 1953 |
+| [[id:43c7c41f-b45b-46c0-83c8-24ebe5297d7a][David Ben Gurion]]   |  1948 | 1953 |
 | Moshe Sharett      |  1953 | 1955 |
-| David Ben-Gurion   |  1955 | 1963 |
+| [[id:43c7c41f-b45b-46c0-83c8-24ebe5297d7a][David Ben Gurion]]   |  1955 | 1963 |
 | Levi Eshkol        |  1963 | 1969 |
 | Yigal Allon        |  1969 | 1969 |
 | Golda Meir         |  1969 | 1974 |
@@ -37,3 +37,4 @@ Regeringsleiders:
 |                    |       |      |
 
 Zie ook  [[https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Israel][Wiki]] voor de regeringsleiders
+
