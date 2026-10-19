@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       43c7c41f-b45b-46c0-83c8-24ebe5297d7a
+:END:
+#+title: David Ben Gurion
+
+| Geboren    | Overleden  | termijn start | Termijn einde |
+|------------+------------+---------------+---------------|
+| 1886/10/16 | 1973/12/01 |          1948 |          1954 |
+|            |            |          1955 |          1963 |
+|            |            |               |               |
+
+
+Eerste premier van [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]].
