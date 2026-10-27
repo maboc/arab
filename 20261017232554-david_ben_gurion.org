@@ -3,11 +3,13 @@
 :END:
 #+title: David Ben Gurion
 
-| Geboren    | Overleden  | termijn start | Termijn einde |
-|------------+------------+---------------+---------------|
-| 1886/10/16 | 1973/12/01 |          1948 |          1954 |
-|            |            |          1955 |          1963 |
-|            |            |               |               |
+Regeringleider
+| Geboren    | termijn start | Termijn einde | Overleden  |
+|------------+---------------+---------------+------------|
+| 1886/10/16 |          1948 |          1954 |            |
+|            |          1955 |          1963 | 1973/12/01 |
+|            |               |               |            |
 
+Ben Gurion werd in 1935 voorzitter van de [[id:2057b941-6ba2-4f48-beb1-027b080969dd][Jewish Agency]]
 
-Eerste premier van [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]].
+Ben Gurion was de eerste premier van [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]].
