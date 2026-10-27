@@ -6,7 +6,7 @@
 #+filetags: :Israel:
 
 Israel is in 1948 gesticht.
-HIer aan vooraf ging de [[id:6ab9fa4e-52b0-4f7d-bca6-ee1468edb436][eerste Arabisch Israelische oorlog]]
+Hier aan vooraf ging de [[id:6ab9fa4e-52b0-4f7d-bca6-ee1468edb436][eerste Arabisch Israelische oorlog]]
 
 Regeringsleiders:
 
@@ -21,7 +21,7 @@ Regeringsleiders:
 | Golda Meir         |  1969 | 1974 |
 | Yitzhak Rabin      |  1974 | 1977 |
 | [[id:d62eee55-27e7-4038-ace4-f17834c16989][Menachem Begin]]     |  1977 | 1983 |
-| Yitzhak Shamir     |  1983 | 1984 |
+| [[id:37623bc1-a3e0-418b-9154-5ae3a2146224][Yitzhak Shamir]]     |  1983 | 1984 |
 | Shimon Peres       |  1984 | 1986 |
 | Yithzak Shamir     |  1986 | 1992 |
 | Yithzak Rabin      |  1992 | 1995 |

@@ -3,7 +3,7 @@
 :END:
 #+title: Chaim Weizmann
 
-Leider van het World Zionist Organisation.
+Leider van het [[id:c2de64a0-9a32-4d98-a5c8-b075822e86a3][World Zionist Organisation]].
 
 In 1917 schreef de engelse Balfour de [[id:8a7a3dd5-6d80-462c-8940-e78a4743971c][Balfour Declaratie]] mede aan Weizmann.
 
