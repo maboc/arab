@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       37623bc1-a3e0-418b-9154-5ae3a2146224
+:END:
+#+title: Yitzhak Shamir
+
+|    Geboren | Start Termijn | Eind Termijn |  Overleden |
+|------------+---------------+--------------+------------|
+| 1915-10-22 |          1983 |         1984 |            |
+|            |          1986 |         1992 | 2012-06-30 |
+|            |               |              |            |
+
+Yitzhak Shamir was voordat [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]] werd gesticht onderdeel van de [[id:04006ce0-2170-4360-803e-ce88bbb3021b][Irgun]] en ook van de nog meer millitante [[id:04006ce0-2170-4360-803e-ce88bbb3021b][Stern Gang]].

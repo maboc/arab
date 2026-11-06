@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e94f740a-938f-4f3a-bcbc-ee02c83dbd46
+:END:
+#+title: King David Hotel
+
+HOtel waar een grote aanslag op werd gepleegd door xxxxx
+Dit nadat de Engelsen administratie van de [[id:2057b941-6ba2-4f48-beb1-027b080969dd][Jewish Agency]] in beslag hedden genomen, en in dit hotel hadden opgeslagen.
+De [[id:2057b941-6ba2-4f48-beb1-027b080969dd][Jewish Agency]] werd hier zwaar mee in verlegeheid gebracht, omdat uit de papieren zou blijken dat zij wel degelijk van diverse aanslagen gepleegd door [[id:04006ce0-2170-4360-803e-ce88bbb3021b][Irgun]], [[id:04006ce0-2170-4360-803e-ce88bbb3021b][Lehi]] en [[id:46d6b7bc-0b96-48c5-b0e8-6ddd8af12c0e][Haganah]] wisten.
