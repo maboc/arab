@@ -4,3 +4,23 @@
 #+title: Syrie
 #+filetags: :Syrie:
 
+Regeringsleiders:
+| Naam                   | Termijn van | Termijn tot | Opmerkingen |
+|------------------------+-------------+-------------+-------------|
+| Shukri al Quwwatli     |             | 1949/03/30  | President   |
+| [[id:f46cfb73-1623-4558-8ff0-6ddb75b41bb4][Colonel Husni al Za'Im]] | 1949/03/30  | 1949/08/14  | Staatsgreep |
+|                        |             |             |             |
+
+De Arabisch Ramp ([[id:787d7650-170c-4d9d-97c0-c82e53132a47][Eerste Arabisch Israelische oorlog]]) leidde in Syrie tot een staatsgreep.
+1949/03/30 nam het leger de staat over.
+
+[[id:f46cfb73-1623-4558-8ff0-6ddb75b41bb4][Colonel Husni al Za'Im]] wilde graag een vrede met [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]] sluiten. Hij probeerde te onderhandelen in _geheime_  onderhandelingen. 1949/07/20 Al Za'Im bood onder meer aan 300000 Palestijnse vluchtelingen op te nemen. Hij vroeg daarbij om Amerikaanse Dollars om het Jazira district te ontwikkelen.
+Husni had het idee dat Palestijnse arbeid en Amerikaanse dollars Syrie zou helpen moderniseren.
+
+[[id:43c7c41f-b45b-46c0-83c8-24ebe5297d7a][David Ben Gurion]] (leider van Israel) wilde hier echter niets van weten
+
+De amerikanen ([[id:1e71c971-a345-44da-8089-f50be51ed648][James Keeley]]) probeerden de ministers van Buitenlandse zaken van [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]] en Syrie ([[id:3e2b4b3c-0014-4d30-a94e-9b03c056779a][Adil Arslan]]) met elkaar te laten onderhandelen. Arslan vroeg terecht "waarom" Hij wist uiteraard niet van de geheime voorstellen van al Za'Im. Keeley vertelde hem onder geheimhouding over de besprekingen tussen al Az'Im en Israel.
+Arslan begon direct andere Arabische landen in te lichten van een naderend gevaar (eenzijdig verdrag met Israel) zonder aan de partners uit te leggen wat er precies aan de hand was (zoals beloolfd: geheimhouding)
+Hier uit blijkt hoe enorm al Za'Im verwijderd was van de werkelijkheid politiek en van de bevolking.
+
+1949/08/04 werd al Za'Im (en zijn premier) gearresteerd en geexecuteerd.

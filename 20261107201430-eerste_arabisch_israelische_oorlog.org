@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       787d7650-170c-4d9d-97c0-c82e53132a47
+:ROAM_ALIASES: "Arabische Ramp"
 :END:
-#+title: Eerste Arabisch Israelische oorlog
+#+title: Eerste Arabisch Israëlische oorlog
 
-14 Mei 1948 verliet [[id:aabcf666-5532-4d4d-a524-53dd9823b804][Groot Britannie]] het Britse mandaat gebied. Op 15 mei 1948 begon de Eerste Arabische Israelische oorlog.
+14 Mei 1948 verliet [[id:aabcf666-5532-4d4d-a524-53dd9823b804][Groot Britannie]] het Britse mandaat gebied. Op 15 mei 1948 begon de Eerste Arabische Israëlische oorlog.
 
-Verschillendende Arabische landen leverden troepen:
+Verschillende Arabische landen leverden troepen:
 - [[id:a2f458a1-eb74-4c06-8843-29d15cd1e935][Transjordanie]]
 - [[id:0631e9d2-0fae-4891-b654-ae9cf8c7f609][Syrie]]
 - [[id:a2bb9de9-13c7-414b-aa88-b1487b2c134f][Irak]]
@@ -13,25 +14,27 @@ Verschillendende Arabische landen leverden troepen:
 
 Allemaal echter met een relatief klein aantal troepen (+/- 25000) [[id:d6fd72b5-444e-4be8-8ab5-6777d5ee8ea0][Israel]] had in eerste instantie zo'n 35000 troepen.
 
-De United Nations onderhandele een wapenstilstand op 28 mei. Deze zou moeten in gaan op 11 juni en 28 dagen duren.
+De United Nations onderhandelde een wapenstilstand op 28 mei. Deze zou moeten in gaan op 11 juni en 28 dagen duren.
 
-De gezamelijke Arabische troepen probeerden via [[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]]/[[id:38b59b1d-f821-4bcf-a71f-69f9113a7cac][Frankrijk]]/[[id:aabcf666-5532-4d4d-a524-53dd9823b804][Groot Britannie]]/... wapen leveranties te krijgen.
-Deze landen hielden echter streng vast aan de afspraak dat er tijdens de wapenstilstand geen wapens mochten worden geleverd. Israel haalde via TsechoSlowakije toch wapen binnen.
+De gezamenlijke Arabische troepen probeerden via [[id:289cdd0b-090b-4e0f-871f-7dfb9b26c429][USA]]/[[id:38b59b1d-f821-4bcf-a71f-69f9113a7cac][Frankrijk]]/[[id:aabcf666-5532-4d4d-a524-53dd9823b804][Groot Britannie]]/... wapen leveranties te krijgen.
+Deze landen hielden echter streng vast aan de afspraak dat er tijdens de wapenstilstand geen wapens mochten worden geleverd. Israel haalde via Tsecho Slowakije toch wapen binnen.
 Ook wist Israel veel meer troepen te verkrijgen (tot +/- 60000 man).
-Op 9 Juli verliep de wapenstilstand. De Israelisch waren veel beter bevooraad van munitie en manschappen dan de Arabieren. 
+Op 9 Juli verliep de wapenstilstand. De Israëlisch waren veel beter bevoorraad van munitie en manschappen dan de Arabieren. 
 
 Van 19 juli tot 14 Oktober was er een tweede wapenstilstand
 
-Naast dat de Arabieren veel minder goed voorbereid waren, hadden zij intern ook veel strubbelingen. Naast dat ze tegen de Israelisch vochten vochten zij ook tegen elkaar. De onderlingen legers hadden weingig/geen vertrouwen in de bedoelingen van de anderen.
+Naast dat de Arabieren veel minder goed voorbereid waren, hadden zij intern ook veel strubbelingen. Naast dat ze tegen de Israëlisch vochten vochten zij ook tegen elkaar. De onderlinge legers hadden weinig/geen vertrouwen in de bedoelingen van de anderen.
 Dit maakte het voor Israel veel makkelijker om tegen de Arabieren te vechten.
 
 Count Bernadotte werd aan het begin van deze oorlog al aangewezen door de U.N. om vrede te realiseren in [[id:3198bff9-7a59-4484-8f71-94ff48fb89d0][Palestina]]
 Tijden de 2e wapenstilstand werd Count Bernadotte door de [[id:04006ce0-2170-4360-803e-ce88bbb3021b][Lehi]] op 17 september 1948 vermoord.
 Zonder enig uitzicht op vrede ging de oorlog vanaf 14 oktober 1948 weer voort.
 
-In de derde ronde van gevechten verdreef Israel de Syrische/Libanese/Arab Legion troepen terug naar Syrisch en LIbanees grondgebied.
+In de derde ronde van gevechten verdreef Israel de Syrische/Libanese/Arab Legion troepen terug naar Syrisch en Libanees grondgebied.
 
-HIerna richtte Israel zich op Falujah (ja....een toenmalig stadje in Israel in de regio Gaza).
+Hierna richtte Israel zich op Falujah (ja....een toenmalig stadje in Israel in de regio Gaga).
 Hier zat een detachement Egyptenaren. Zij lagen zwaar onder vuur en leidden ernstige verliezen (Faluja Pocket).
 In deze groep zaten o.m. [[id:7f697957-8bf0-45a7-a36e-78d46515c626][Abdel Nasser]], [[id:c669f209-3c08-4db5-bea4-030c0b9130da][Zakaria Mohi El Din]] en [[id:5316beea-c321-484f-be82-ff6a7fdaa735][Salah Salem]].
 DEze hoorden bijde (later op te richten ????) [[id:a7188d10-7896-4d9b-9ac0-9bf5ffffb41a][Free Officers]]. Deze Free Officers zouden later het plan beramen de Egyptische regering omver te werpen.
+
+De Arabische Ramp (dixit Martijn) leidde in [[id:0631e9d2-0fae-4891-b654-ae9cf8c7f609][Syrie]] tot een staatsgreep.
